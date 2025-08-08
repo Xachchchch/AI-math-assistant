@@ -1,4 +1,4 @@
-# ] Math RAG Assistant
+# Math RAG Assistant
 
 An AI assistant for advanced mathematics questions using Retrieval-Augmented Generation (RAG).
 
