@@ -61,5 +61,5 @@ pip install -r requirements.txt
 ```
 ### 3. Run the app
 ```bash
-jupyter notebook AI_Math_Assistant.ipynb
+jupyter notebook rag_math_assistant.ipynb
 ```
