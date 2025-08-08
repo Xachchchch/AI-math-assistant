@@ -1,7 +1,11 @@
+langchain>=0.1.14
+faiss-cpu
+openai
+tqdm
 transformers
-datasets
-peft
+sentencepiece
 accelerate
-wandb
-scikit-learn
 torch
+pypdf
+chromadb
+python-dotenv
